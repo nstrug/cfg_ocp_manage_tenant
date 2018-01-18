@@ -1,0 +1,11 @@
+---
+- name: ocp_create_tenancy
+  src: https://github.com/nstrug/ocp_create_tenancy
+
+- name: ocp_add_project_to_tenancy
+  src: https://github.com/nstrug/ocp_add_project_to_tenancy
+
+- name: ocp_add_user_to_tenancy
+  src: https://github.com/nstrug/ocp_add_user_to_tenancy
+
+

@@ -1,0 +1,6 @@
+---
+
+- hosts: masters[0]
+  name: Testing ocp_create_tenancy
+  roles:
+    - ocp_create_tenancy
